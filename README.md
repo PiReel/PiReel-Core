@@ -2,8 +2,9 @@
 
 Shared by Kippikio to help spur innovation from localities. Please stay tuned for our blog to learn more.
 
-Currently under construction but, here are is a list of available features if you use WAMP or XAMMP you can utilize for your small business needs.
+Currently under construction.
 
+Feature Requests: 
 1. JSON Data Management Tool #) | 5/30/2018
 
 <hr>
